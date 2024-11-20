@@ -1,5 +1,11 @@
 # Change Log
 
+## 2.6.3
+
+### Patch Changes
+
+- Add voiceIsolation constraint to AudioCaptureOptions - [#1320](https://github.com/livekit/client-sdk-js/pull/1320) ([@lukasIO](https://github.com/lukasIO))
+
 ## 2.6.2
 
 ### Patch Changes
